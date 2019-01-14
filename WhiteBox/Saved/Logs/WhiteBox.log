@@ -337,3 +337,499 @@ LogInit: Object subsystem initialized
 [2019.01.14-15.43.51:343][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
 [2019.01.14-15.43.51:344][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000100 seconds (updated 0 objects)
 [2019.01.14-15.43.51:347][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.01.14-15.49.02:248][605]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-15.49.51:870][197]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.14-15.49.51:878][197]LogAssetEditorManager: Opening Asset editor for Material /Game/M_WBox_IR.M_WBox_IR
+[2019.01.14-15.49.51:882][197]LogMaterial: Display: Missing cached shader map for material M_WBox_IR, compiling. 
+[2019.01.14-15.49.52:271][197]LogMaterial: Display: Missing cached shader map for material M_WBox_IR, compiling. 
+[2019.01.14-15.49.52:301][197]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.14-15.49.52:301][197]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.14-15.49.52:301][197]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.14-15.49.52:301][197]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.14-15.49.52:336][197]LogSlate: Took 0.009021 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.01.14-15.49.53:025][231]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.14-15.49.53:058][233]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.14-15.49.53:062][233]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.14-15.49.53:062][233]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.14-15.49.53:212][242]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.14-15.49.53:243][244]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.14-15.49.53:247][244]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.14-15.49.53:262][245]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.14-15.49.53:382][253]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.14-15.49.53:532][262]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.14-15.49.53:687][272]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.14-15.49.53:733][275]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.14-15.49.53:800][279]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.14-15.49.53:935][287]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.14-15.49.54:003][291]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.14-15.49.54:156][300]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.14-15.49.54:206][303]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.14-15.49.54:501][322]MaterialEditorStats: Base pass shader: 99 instructions
+[2019.01.14-15.49.54:501][322]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2019.01.14-15.49.54:501][322]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.01.14-15.49.54:501][322]MaterialEditorStats: Texture samplers: 3/16
+[2019.01.14-15.50.35:315][549]LogMaterial: Display: Missing cached shader map for material M_WBox_IR, compiling. 
+[2019.01.14-15.50.35:327][549]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.01.14-15.50.35:363][550]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.01.14-15.50.35:363][550]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.01.14-15.50.35:363][550]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.14-15.50.35:363][550]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.14-15.50.35:912][598]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.14-15.50.35:943][601]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.14-15.50.35:953][602]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.14-15.50.35:953][602]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.14-15.50.36:080][612]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.14-15.50.36:118][615]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.14-15.50.36:130][616]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.14-15.50.36:138][617]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.14-15.50.36:245][627]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.14-15.50.36:380][636]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.14-15.50.36:537][648]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.14-15.50.36:574][651]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.14-15.50.36:637][656]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.14-15.50.36:785][668]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.14-15.50.36:797][669]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.14-15.50.37:028][685]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.14-15.50.37:055][687]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.14-15.50.37:114][692]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.14-15.50.37:177][697]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.14-15.50.37:446][716]MaterialEditorStats: Base pass shader: 99 instructions
+[2019.01.14-15.50.37:446][716]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2019.01.14-15.50.37:446][716]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.01.14-15.50.37:446][716]MaterialEditorStats: Texture samplers: 3/16
+[2019.01.14-15.50.51:829][207]LogMaterial: Display: Missing cached shader map for material M_WBox_IR, compiling. 
+[2019.01.14-15.50.51:844][207]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.14-15.50.51:844][207]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.14-15.50.51:844][207]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.14-15.50.51:844][207]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.14-15.50.51:844][207]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.01.14-15.50.51:856][207]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.01.14-15.50.51:894][207]LogMaterial: Display: Missing cached shader map for material M_WBox_IR, compiling. 
+[2019.01.14-15.50.51:965][208]LogSlate: Took 0.007865 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.01.14-15.50.52:062][214]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.01.14-15.50.52:103][217]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.01.14-15.50.52:115][218]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.14-15.50.52:115][218]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.14-15.50.52:367][236]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.14-15.50.52:381][237]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.14-15.50.52:391][238]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.14-15.50.52:416][240]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.14-15.50.52:579][252]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.14-15.50.52:593][253]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.14-15.50.52:593][253]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.14-15.50.52:600][254]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.14-15.50.52:723][263]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.14-15.50.52:733][264]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.14-15.50.52:768][267]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.14-15.50.53:001][283]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.14-15.50.53:001][283]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.14-15.50.53:179][296]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.14-15.50.53:194][297]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.14-15.50.53:265][302]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.14-15.50.53:399][312]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.14-15.50.53:535][321]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.14-15.50.53:635][329]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.14-15.50.53:890][349]MaterialEditorStats: Base pass shader: 99 instructions
+[2019.01.14-15.50.53:890][349]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2019.01.14-15.50.53:890][349]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.01.14-15.50.53:890][349]MaterialEditorStats: Texture samplers: 3/16
+[2019.01.14-15.51.03:131][179]LogMaterial: Display: Missing cached shader map for material M_WBox_IR, compiling. 
+[2019.01.14-15.51.03:147][179]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.14-15.51.03:147][179]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.14-15.51.03:147][179]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.14-15.51.03:147][179]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.14-15.51.03:149][179]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.01.14-15.51.03:385][196]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.14-15.51.03:409][198]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.14-15.51.03:419][199]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.14-15.51.03:427][200]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.14-15.51.03:559][209]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.14-15.51.03:577][211]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.14-15.51.03:588][212]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.14-15.51.03:599][213]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.14-15.51.03:706][222]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.14-15.51.03:846][231]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.14-15.51.04:007][242]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.14-15.51.04:047][245]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.14-15.51.04:137][252]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.14-15.51.04:262][262]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.14-15.51.04:276][263]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.14-15.51.04:486][278]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.14-15.51.04:514][280]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.14-15.51.04:595][287]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.14-15.51.04:689][294]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.14-15.51.04:917][312]MaterialEditorStats: Base pass shader: 101 instructions
+[2019.01.14-15.51.04:917][312]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2019.01.14-15.51.04:917][312]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.01.14-15.51.04:917][312]MaterialEditorStats: Texture samplers: 3/16
+[2019.01.14-15.51.20:556][860]LogMaterial: Display: Missing cached shader map for material M_WBox_IR, compiling. 
+[2019.01.14-15.51.20:571][860]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.01.14-15.51.20:585][860]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.14-15.51.20:585][860]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.14-15.51.20:585][860]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.14-15.51.20:585][860]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.14-15.51.20:818][876]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.14-15.51.20:832][877]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.14-15.51.20:845][878]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.14-15.51.20:857][879]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.14-15.51.21:009][890]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.14-15.51.21:020][891]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.14-15.51.21:032][892]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.14-15.51.21:043][893]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.14-15.51.21:153][901]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.14-15.51.21:294][910]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.14-15.51.21:425][919]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.14-15.51.21:466][923]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.14-15.51.21:546][929]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.14-15.51.21:656][938]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.14-15.51.21:698][941]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.14-15.51.21:853][953]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.14-15.51.21:888][956]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.14-15.51.21:977][964]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.14-15.51.22:045][969]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.14-15.51.22:490][ 13]LogMaterial: Display: Missing cached shader map for material M_WBox_IR, compiling. 
+[2019.01.14-15.51.22:506][ 13]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.14-15.51.22:506][ 13]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.14-15.51.22:506][ 13]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.14-15.51.22:506][ 13]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.14-15.51.22:506][ 13]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.01.14-15.51.22:722][ 29]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.14-15.51.22:741][ 30]LogMaterial: Display: Missing cached shader map for material M_WBox_IR, compiling. 
+[2019.01.14-15.51.22:754][ 30]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.14-15.51.22:756][ 30]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.01.14-15.51.22:756][ 30]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.14-15.51.22:758][ 30]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.01.14-15.51.22:861][ 35]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.01.14-15.51.23:022][ 45]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.14-15.51.23:022][ 45]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.14-15.51.23:067][ 49]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.14-15.51.23:091][ 51]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.14-15.51.23:210][ 59]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.14-15.51.23:238][ 61]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.14-15.51.23:249][ 62]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.14-15.51.23:261][ 63]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.14-15.51.23:376][ 71]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.14-15.51.23:376][ 71]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.14-15.51.23:429][ 75]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.14-15.51.23:633][ 89]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.14-15.51.23:649][ 90]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.14-15.51.23:804][101]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.14-15.51.23:851][104]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.14-15.51.23:892][107]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.14-15.51.24:033][119]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.14-15.51.24:142][126]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.14-15.51.24:242][134]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.14-15.51.24:306][139]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.14-15.51.24:383][145]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.14-15.51.24:602][165]LogMaterial: Display: Missing cached shader map for material M_WBox_IR, compiling. 
+[2019.01.14-15.51.24:617][165]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.14-15.51.24:617][165]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.14-15.51.24:617][165]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.14-15.51.24:617][165]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.14-15.51.24:617][165]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.01.14-15.51.24:828][178]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.14-15.51.24:867][181]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.14-15.51.24:878][182]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.14-15.51.24:878][182]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.14-15.51.25:003][191]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.14-15.51.25:032][193]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.14-15.51.25:057][195]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.14-15.51.25:080][197]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.14-15.51.25:156][203]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.14-15.51.25:328][214]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.14-15.51.25:457][224]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.14-15.51.25:480][226]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.14-15.51.25:540][231]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.14-15.51.25:708][243]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.14-15.51.25:736][245]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.14-15.51.25:907][258]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.14-15.51.25:944][261]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.14-15.51.26:002][266]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.14-15.51.26:103][275]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.14-15.51.26:432][306]LogMaterial: Display: Missing cached shader map for material M_WBox_IR, compiling. 
+[2019.01.14-15.51.26:447][306]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.14-15.51.26:447][306]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.14-15.51.26:447][306]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.14-15.51.26:447][306]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.14-15.51.26:447][306]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.01.14-15.51.26:680][322]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.14-15.51.26:693][323]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.14-15.51.26:704][324]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.14-15.51.26:716][325]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.14-15.51.26:866][335]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.14-15.51.26:878][336]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.14-15.51.26:890][337]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.14-15.51.26:900][338]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.14-15.51.27:025][347]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.14-15.51.27:156][355]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.14-15.51.27:300][365]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.14-15.51.27:352][369]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.14-15.51.27:447][375]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.14-15.51.27:549][383]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.14-15.51.27:578][385]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.14-15.51.27:785][399]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.14-15.51.27:801][400]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.14-15.51.27:901][408]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.14-15.51.27:970][413]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.14-15.51.28:182][429]MaterialEditorStats: Base pass shader: 101 instructions
+[2019.01.14-15.51.28:182][429]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2019.01.14-15.51.28:182][429]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.01.14-15.51.28:182][429]MaterialEditorStats: Texture samplers: 3/16
+[2019.01.14-15.51.28:961][498]LogMaterial: Display: Missing cached shader map for material M_WBox_IR, compiling. 
+[2019.01.14-15.51.28:980][498]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.14-15.51.28:980][498]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.14-15.51.28:980][498]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.14-15.51.28:980][498]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.14-15.51.28:980][498]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.01.14-15.51.29:005][498]LogSlate: Window 'Color Picker' being destroyed
+[2019.01.14-15.51.29:555][536]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.14-15.51.29:569][537]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.14-15.51.29:584][538]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.14-15.51.29:584][538]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.14-15.51.29:714][546]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.14-15.51.29:740][548]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.14-15.51.29:762][550]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.14-15.51.29:772][551]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.14-15.51.29:880][561]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.14-15.51.30:038][572]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.14-15.51.30:164][581]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.14-15.51.30:227][586]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.14-15.51.30:311][592]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.14-15.51.30:418][601]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.14-15.51.30:460][604]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.14-15.51.30:662][619]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.14-15.51.30:677][620]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.14-15.51.30:774][628]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.14-15.51.30:839][633]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.14-15.51.31:047][649]MaterialEditorStats: Base pass shader: 101 instructions
+[2019.01.14-15.51.31:047][649]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2019.01.14-15.51.31:047][649]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.01.14-15.51.31:047][649]MaterialEditorStats: Texture samplers: 3/16
+[2019.01.14-15.51.35:494][ 59]LogMaterialEditor: Saving and Compiling material M_WBox_IR
+[2019.01.14-15.51.35:969][ 59]LogMaterial: Display: Missing cached shader map for material M_WBox_IR, compiling. 
+[2019.01.14-15.51.36:011][ 59]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.14-15.51.36:011][ 59]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.14-15.51.36:011][ 59]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.14-15.51.36:011][ 59]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.14-15.51.36:026][ 59]LogMaterial: Display: Missing cached shader map for material M_WBox_IR, compiling. 
+[2019.01.14-15.51.36:042][ 59]LogMaterial: Display: Missing cached shader map for material M_WBox_IR, compiling. 
+[2019.01.14-15.51.36:086][ 59]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_WBox_IR, compiling. 
+[2019.01.14-15.51.37:243][ 59]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.01.14-15.51.37:243][ 59]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.01.14-15.51.37:243][ 59]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.01.14-15.51.37:243][ 59]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.01.14-15.51.37:243][ 59]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.01.14-15.51.37:243][ 59]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.01.14-15.51.37:243][ 59]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.01.14-15.51.37:243][ 59]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.01.14-15.51.37:243][ 59]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.01.14-15.51.37:243][ 59]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.01.14-15.51.37:243][ 59]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.01.14-15.51.37:243][ 59]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.01.14-15.51.37:243][ 59]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.01.14-15.51.37:243][ 59]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.01.14-15.51.37:243][ 59]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.01.14-15.51.37:243][ 59]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.01.14-15.51.37:243][ 59]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.01.14-15.51.37:243][ 59]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.01.14-15.51.37:243][ 59]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.01.14-15.51.37:243][ 59]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.14-15.51.37:243][ 59]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.14-15.51.37:245][ 59]TextureStreamingBuild: Display: Compiling optional shaders took 1.165 seconds.
+[2019.01.14-15.51.39:383][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/M_WBox_IR" FILE="../../../../../../Users/u0963460/Documents/GitHub/IR_assetpipeline/WhiteBox/Content/M_WBox_IR.uasset" SILENT=true
+[2019.01.14-15.51.39:414][ 59]LogSavePackage: Moving '../../../../../../Users/u0963460/Documents/GitHub/IR_assetpipeline/WhiteBox/Saved/M_WBox_IR0FA7FBC44181BFE9E1BEE28F7D54FD63.tmp' to '../../../../../../Users/u0963460/Documents/GitHub/IR_assetpipeline/WhiteBox/Content/M_WBox_IR.uasset'
+[2019.01.14-15.51.41:744][262]LogSlate: Window 'M_WBox_IR' being destroyed
+[2019.01.14-15.53.09:847][874]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/MI_WBox_IR.MI_WBox_IR
+[2019.01.14-15.53.52:518][359]LogSlate: Window 'Color Picker' being destroyed
+[2019.01.14-15.54.04:213][695]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MI_WBox_IR" FILE="../../../../../../Users/u0963460/Documents/GitHub/IR_assetpipeline/WhiteBox/Content/MI_WBox_IR.uasset" SILENT=true
+[2019.01.14-15.54.04:239][695]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MI_WBox_IR, compiling. 
+[2019.01.14-15.54.04:648][695]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.14-15.54.04:649][695]TextureStreamingBuild: Display: Compiling optional shaders took 0.414 seconds.
+[2019.01.14-15.54.04:681][695]LogSavePackage: Moving '../../../../../../Users/u0963460/Documents/GitHub/IR_assetpipeline/WhiteBox/Saved/MI_WBox_IR47101DA4430E2B176644519D12F47011.tmp' to '../../../../../../Users/u0963460/Documents/GitHub/IR_assetpipeline/WhiteBox/Content/MI_WBox_IR.uasset'
+[2019.01.14-15.54.07:397][999]LogSlate: Window 'MI_WBox_IR' being destroyed
+[2019.01.14-15.54.17:641][993]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/M_WBox_IR_Inst.M_WBox_IR_Inst
+[2019.01.14-15.54.19:707][175]LogSlate: Window 'M_WBox_IR_Inst*' being destroyed
+[2019.01.14-15.54.19:711][175]LogSlate: Window 'M_WBox_IR_Inst*' being destroyed
+[2019.01.14-15.54.19:746][175]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_WBox_IR_Inst, compiling. 
+[2019.01.14-15.54.19:871][175]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.14-15.54.19:872][175]TextureStreamingBuild: Display: Compiling optional shaders took 0.128 seconds.
+[2019.01.14-15.54.53:291][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MI_WBoxRoad_IR" FILE="../../../../../../Users/u0963460/Documents/GitHub/IR_assetpipeline/WhiteBox/Content/MI_WBoxRoad_IR.uasset" SILENT=true
+[2019.01.14-15.54.53:318][597]LogSavePackage: Moving '../../../../../../Users/u0963460/Documents/GitHub/IR_assetpipeline/WhiteBox/Saved/MI_WBoxRoad_IR4B61CCB64B5B82067DF7B6B1C5530E8E.tmp' to '../../../../../../Users/u0963460/Documents/GitHub/IR_assetpipeline/WhiteBox/Content/MI_WBoxRoad_IR.uasset'
+[2019.01.14-15.55.18:350][360]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.01.14-15.55.30:947][845]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-15.55.58:208][986]LogSavePackage: Moving '../../../../../../Users/u0963460/Documents/GitHub/IR_assetpipeline/WhiteBox/Saved/Untitled_1_Auto1F3615DB743C83147BABB3D952D7DE43A.tmp' to '../../../../../../Users/u0963460/Documents/GitHub/IR_assetpipeline/WhiteBox/Saved/Autosaves/Temp/Untitled_1_Auto1.umap'
+[2019.01.14-15.55.58:212][986]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.052
+[2019.01.14-15.55.58:212][986]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.052
+[2019.01.14-15.56.38:244][717]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.01.14-15.57.04:747][870]Cmd: DELETE
+[2019.01.14-15.57.04:747][870]Cmd: ACTOR DELETE
+[2019.01.14-15.57.04:761][870]LogEditorActor: Deleted Actor: Brush
+[2019.01.14-15.57.04:788][870]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2019.01.14-15.57.09:760][362]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-15.57.13:650][751]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.01.14-15.57.30:356][641]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-15.57.38:881][653]Cmd: TRANSACTION UNDO
+[2019.01.14-15.57.38:881][653]LogEditorTransaction: Undo Scale Actors
+[2019.01.14-15.58.19:724][158]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-15.59.20:770][423]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.14-15.59.54:941][444]Cmd: EDIT COPY
+[2019.01.14-15.59.55:762][542]Cmd: EDIT PASTE
+[2019.01.14-16.00.22:148][680]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-16.00.45:105][395]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-16.01.11:971][489]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-16.01.12:055][499]Cmd: MODE SCALEGRID=0
+[2019.01.14-16.01.13:152][621]Cmd: MODE ROTGRID=0
+[2019.01.14-16.01.13:722][683]Cmd: MODE GRID=0
+[2019.01.14-16.01.14:708][752]Cmd: MODE GRID=1
+[2019.01.14-16.01.15:198][804]Cmd: MODE ROTGRID=1
+[2019.01.14-16.01.15:828][873]Cmd: MODE SCALEGRID=1
+[2019.01.14-16.03.00:664][547]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.14-16.03.13:612][ 65]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-16.03.21:804][ 22]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-16.04.01:660][667]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-16.04.20:330][868]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.01.14-16.05.42:786][530]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.14-16.06.18:631][776]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush)
+[2019.01.14-16.06.22:245][192]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.14-16.07.05:135][316]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.14-16.07.05:250][316]LogSavePackage: Moving '../../../../../../Users/u0963460/Documents/GitHub/IR_assetpipeline/WhiteBox/Saved/Untitled_1_Auto2F694126244313B34BB3A1E8B09DB5120.tmp' to '../../../../../../Users/u0963460/Documents/GitHub/IR_assetpipeline/WhiteBox/Saved/Autosaves/Temp/Untitled_1_Auto2.umap'
+[2019.01.14-16.07.05:253][316]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.090
+[2019.01.14-16.07.05:253][316]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.090
+[2019.01.14-16.07.17:127][731]LogEditorViewport: Clicking Background
+[2019.01.14-16.07.19:093][964]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.14-16.07.19:513][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.14-16.07.20:479][128]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.14-16.07.30:746][193]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-16.07.41:046][396]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-16.07.50:343][464]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-16.07.54:644][962]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-16.07.59:457][525]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-16.08.09:871][744]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-16.08.10:724][841]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-16.08.15:189][370]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.14-16.08.16:161][486]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-16.08.17:356][613]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-16.08.17:983][681]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.01.14-16.08.20:219][942]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.14-16.08.31:110][220]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-16.08.38:298][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-16.08.42:507][563]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-16.09.40:673][519]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.14-16.09.45:390][ 72]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-16.09.49:134][509]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-16.10.13:909][322]Cmd: DELETE
+[2019.01.14-16.10.13:910][322]Cmd: ACTOR DELETE
+[2019.01.14-16.10.13:914][322]LogEditorActor: Deleted Actor: Brush
+[2019.01.14-16.10.13:940][322]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2019.01.14-16.10.15:580][518]Cmd: TRANSACTION UNDO
+[2019.01.14-16.10.15:580][518]LogEditorTransaction: Undo Delete Actors
+[2019.01.14-16.10.15:894][547]Cmd: TRANSACTION UNDO
+[2019.01.14-16.10.15:894][547]LogEditorTransaction: Undo Move Actors
+[2019.01.14-16.10.15:910][547]LogActorComponent: ~FComponentReregisterContext: (/Temp/Untitled_1.Untitled_1:PersistentLevel.CylinderBrush.BrushComponent0) Component already registered.
+[2019.01.14-16.10.16:235][577]Cmd: TRANSACTION UNDO
+[2019.01.14-16.10.16:235][577]LogEditorTransaction: Undo Move Actors
+[2019.01.14-16.10.16:254][577]LogActorComponent: ~FComponentReregisterContext: (/Temp/Untitled_1.Untitled_1:PersistentLevel.BoxBrush4.BrushComponent0) Component already registered.
+[2019.01.14-16.10.58:294][488]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-16.11.38:283][196]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-16.13.33:625][322]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-16.13.55:297][874]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.14-16.14.55:848][ 72]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-16.15.06:543][347]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-16.15.09:482][694]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-16.16.27:019][861]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-16.16.47:750][176]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-16.17.36:983][921]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-16.18.19:539][450]Cmd: TRANSACTION UNDO
+[2019.01.14-16.18.19:539][450]LogEditorTransaction: Undo Clicking on Actors
+[2019.01.14-16.18.20:088][492]Cmd: TRANSACTION UNDO
+[2019.01.14-16.18.20:088][492]LogEditorTransaction: Undo Move Actors
+[2019.01.14-16.18.20:126][492]LogActorComponent: ~FComponentReregisterContext: (/Temp/Untitled_1.Untitled_1:PersistentLevel.BoxBrush3.BrushComponent0) Component already registered.
+[2019.01.14-16.18.20:624][518]Cmd: TRANSACTION UNDO
+[2019.01.14-16.18.20:624][518]LogEditorTransaction: Undo Move Actors
+[2019.01.14-16.18.21:155][544]Cmd: TRANSACTION UNDO
+[2019.01.14-16.18.21:155][544]LogEditorTransaction: Undo Move Actors
+[2019.01.14-16.18.21:191][544]LogActorComponent: ~FComponentReregisterContext: (/Temp/Untitled_1.Untitled_1:PersistentLevel.BoxBrush6.BrushComponent0) Component already registered.
+[2019.01.14-16.18.21:604][566]Cmd: TRANSACTION UNDO
+[2019.01.14-16.18.21:605][566]LogEditorTransaction: Undo Move Actors
+[2019.01.14-16.18.21:637][566]LogActorComponent: ~FComponentReregisterContext: (/Temp/Untitled_1.Untitled_1:PersistentLevel.BoxBrush5.BrushComponent0) Component already registered.
+[2019.01.14-16.18.21:639][566]LogActorComponent: ~FComponentReregisterContext: (/Temp/Untitled_1.Untitled_1:PersistentLevel.SubtractiveBrush3.BrushComponent0) Component already registered.
+[2019.01.14-16.18.23:623][712]Cmd: TRANSACTION UNDO
+[2019.01.14-16.18.23:623][712]LogEditorTransaction: Undo Move Actors
+[2019.01.14-16.18.23:645][712]LogActorComponent: ~FComponentReregisterContext: (/Temp/Untitled_1.Untitled_1:PersistentLevel.BoxBrush5.BrushComponent0) Component already registered.
+[2019.01.14-16.18.23:647][712]LogActorComponent: ~FComponentReregisterContext: (/Temp/Untitled_1.Untitled_1:PersistentLevel.SubtractiveBrush3.BrushComponent0) Component already registered.
+[2019.01.14-16.18.24:438][796]Cmd: TRANSACTION UNDO
+[2019.01.14-16.18.24:439][796]LogEditorTransaction: Undo Edit Y
+[2019.01.14-16.18.24:462][796]LogActorComponent: ~FComponentReregisterContext: (/Temp/Untitled_1.Untitled_1:PersistentLevel.BoxBrush4.BrushComponent0) Component already registered.
+[2019.01.14-16.18.24:464][796]LogActorComponent: ~FComponentReregisterContext: (/Temp/Untitled_1.Untitled_1:PersistentLevel.BoxBrush7.BrushComponent0) Component already registered.
+[2019.01.14-16.18.24:464][796]LogActorComponent: ~FComponentReregisterContext: (/Temp/Untitled_1.Untitled_1:PersistentLevel.SubtractiveBrush3.BrushComponent0) Component already registered.
+[2019.01.14-16.18.24:966][847]Cmd: TRANSACTION UNDO
+[2019.01.14-16.18.24:966][847]LogEditorTransaction: Undo Edit X
+[2019.01.14-16.18.24:988][847]LogActorComponent: ~FComponentReregisterContext: (/Temp/Untitled_1.Untitled_1:PersistentLevel.BoxBrush4.BrushComponent0) Component already registered.
+[2019.01.14-16.18.24:991][847]LogActorComponent: ~FComponentReregisterContext: (/Temp/Untitled_1.Untitled_1:PersistentLevel.BoxBrush7.BrushComponent0) Component already registered.
+[2019.01.14-16.18.24:992][847]LogActorComponent: ~FComponentReregisterContext: (/Temp/Untitled_1.Untitled_1:PersistentLevel.SubtractiveBrush3.BrushComponent0) Component already registered.
+[2019.01.14-16.18.25:371][886]Cmd: TRANSACTION UNDO
+[2019.01.14-16.18.25:371][886]LogEditorTransaction: Undo Move Actors
+[2019.01.14-16.18.25:395][886]LogActorComponent: ~FComponentReregisterContext: (/Temp/Untitled_1.Untitled_1:PersistentLevel.CylinderBrush.BrushComponent0) Component already registered.
+[2019.01.14-16.18.26:963][ 51]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-16.18.46:252][310]Cmd: TRANSACTION UNDO
+[2019.01.14-16.18.46:252][310]LogEditorTransaction: Undo Move Actors
+[2019.01.14-16.18.46:265][310]LogActorComponent: ~FComponentReregisterContext: (/Temp/Untitled_1.Untitled_1:PersistentLevel.BoxBrush4.BrushComponent0) Component already registered.
+[2019.01.14-16.18.46:267][310]LogActorComponent: ~FComponentReregisterContext: (/Temp/Untitled_1.Untitled_1:PersistentLevel.BoxBrush8.BrushComponent0) Component already registered.
+[2019.01.14-16.18.46:267][310]LogActorComponent: ~FComponentReregisterContext: (/Temp/Untitled_1.Untitled_1:PersistentLevel.SubtractiveBrush.BrushComponent0) Component already registered.
+[2019.01.14-16.18.46:651][348]Cmd: TRANSACTION UNDO
+[2019.01.14-16.18.46:651][348]LogEditorTransaction: Undo Move Actors
+[2019.01.14-16.18.46:667][348]LogActorComponent: ~FComponentReregisterContext: (/Temp/Untitled_1.Untitled_1:PersistentLevel.BoxBrush4.BrushComponent0) Component already registered.
+[2019.01.14-16.18.46:669][348]LogActorComponent: ~FComponentReregisterContext: (/Temp/Untitled_1.Untitled_1:PersistentLevel.BoxBrush8.BrushComponent0) Component already registered.
+[2019.01.14-16.18.46:669][348]LogActorComponent: ~FComponentReregisterContext: (/Temp/Untitled_1.Untitled_1:PersistentLevel.SubtractiveBrush.BrushComponent0) Component already registered.
+[2019.01.14-16.18.49:195][619]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-16.18.55:525][354]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-16.19.04:812][461]Cmd: TRANSACTION UNDO
+[2019.01.14-16.19.04:812][461]LogEditorTransaction: Undo Clicking on Actors
+[2019.01.14-16.19.05:651][551]Cmd: TRANSACTION UNDO
+[2019.01.14-16.19.05:651][551]LogEditorTransaction: Undo Move Actors
+[2019.01.14-16.19.05:672][551]LogActorComponent: ~FComponentReregisterContext: (/Temp/Untitled_1.Untitled_1:PersistentLevel.BoxBrush4.BrushComponent0) Component already registered.
+[2019.01.14-16.19.05:674][551]LogActorComponent: ~FComponentReregisterContext: (/Temp/Untitled_1.Untitled_1:PersistentLevel.BoxBrush8.BrushComponent0) Component already registered.
+[2019.01.14-16.19.05:674][551]LogActorComponent: ~FComponentReregisterContext: (/Temp/Untitled_1.Untitled_1:PersistentLevel.SubtractiveBrush.BrushComponent0) Component already registered.
+[2019.01.14-16.19.07:005][691]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-16.19.09:268][932]Cmd: TRANSACTION UNDO
+[2019.01.14-16.19.09:268][932]LogEditorTransaction: Undo Clicking on Actors
+[2019.01.14-16.19.09:758][982]Cmd: TRANSACTION UNDO
+[2019.01.14-16.19.09:758][982]LogEditorTransaction: Undo Select Brush Surface
+[2019.01.14-16.19.10:947][103]Cmd: TRANSACTION UNDO
+[2019.01.14-16.19.10:947][103]LogEditorTransaction: Undo Clicking on Actors
+[2019.01.14-16.19.11:277][137]Cmd: TRANSACTION UNDO
+[2019.01.14-16.19.11:277][137]LogEditorTransaction: Undo Move Actors
+[2019.01.14-16.19.11:299][137]LogActorComponent: ~FComponentReregisterContext: (/Temp/Untitled_1.Untitled_1:PersistentLevel.BoxBrush4.BrushComponent0) Component already registered.
+[2019.01.14-16.19.11:301][137]LogActorComponent: ~FComponentReregisterContext: (/Temp/Untitled_1.Untitled_1:PersistentLevel.BoxBrush8.BrushComponent0) Component already registered.
+[2019.01.14-16.19.11:301][137]LogActorComponent: ~FComponentReregisterContext: (/Temp/Untitled_1.Untitled_1:PersistentLevel.SubtractiveBrush.BrushComponent0) Component already registered.
+[2019.01.14-16.19.14:084][433]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-16.19.53:012][ 42]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-16.20.15:990][769]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.14-16.20.24:000][713]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-16.21.11:638][366]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-16.22.14:362][727]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.14-16.22.14:579][727]LogSavePackage: Moving '../../../../../../Users/u0963460/Documents/GitHub/IR_assetpipeline/WhiteBox/Saved/Untitled_1_Auto35FB0E4194BC83DCB4FF004A918AB7E96.tmp' to '../../../../../../Users/u0963460/Documents/GitHub/IR_assetpipeline/WhiteBox/Saved/Autosaves/Temp/Untitled_1_Auto3.umap'
+[2019.01.14-16.22.14:585][727]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.200
+[2019.01.14-16.22.14:585][727]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.200
+[2019.01.14-16.23.14:288][795]Cmd: TRANSACTION UNDO
+[2019.01.14-16.23.14:288][795]LogEditorTransaction: Undo Move Actors
+[2019.01.14-16.23.14:315][795]LogActorComponent: ~FComponentReregisterContext: (/Temp/Untitled_1.Untitled_1:PersistentLevel.SubtractiveBrush4.BrushComponent0) Component already registered.
+[2019.01.14-16.23.16:387][ 13]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-16.24.27:936][997]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-16.24.34:329][747]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.14-16.25.08:513][828]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-16.25.30:878][477]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.14-16.25.50:557][762]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-16.25.57:651][774]LogSlate: Window 'Save Content' being destroyed
+[2019.01.14-16.26.23:276][774]LogSlate: Window 'Save Level As' being destroyed
+[2019.01.14-16.26.24:701][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WhiteBox_IR" FILE="../../../../../../Users/u0963460/Documents/GitHub/IR_assetpipeline/WhiteBox/Content/WhiteBox_IR.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.14-16.26.24:908][774]LogSavePackage: Moving '../../../../../../Users/u0963460/Documents/GitHub/IR_assetpipeline/WhiteBox/Saved/WhiteBox_IRF65BCA3C4C5B0EED9DDED2B4E356B7C6.tmp' to '../../../../../../Users/u0963460/Documents/GitHub/IR_assetpipeline/WhiteBox/Content/WhiteBox_IR.umap'
+[2019.01.14-16.26.24:935][774]LogFileHelpers: Saving map 'WhiteBox_IR' took 1.650
+[2019.01.14-16.26.41:619][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WhiteBox_IR" FILE="../../../../../../Users/u0963460/Documents/GitHub/IR_assetpipeline/WhiteBox/Content/WhiteBox_IR.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.14-16.26.41:747][436]LogSavePackage: Moving '../../../../../../Users/u0963460/Documents/GitHub/IR_assetpipeline/WhiteBox/Saved/WhiteBox_IRAC646A054438E7DA88E1DEBE4135F0F8.tmp' to '../../../../../../Users/u0963460/Documents/GitHub/IR_assetpipeline/WhiteBox/Content/WhiteBox_IR.umap'
+[2019.01.14-16.26.41:767][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WhiteBox_IR_BuiltData" FILE="../../../../../../Users/u0963460/Documents/GitHub/IR_assetpipeline/WhiteBox/Content/WhiteBox_IR_BuiltData.uasset" SILENT=true
+[2019.01.14-16.26.41:785][436]LogSavePackage: Moving '../../../../../../Users/u0963460/Documents/GitHub/IR_assetpipeline/WhiteBox/Saved/WhiteBox_IR_BuiltData3A04BD904807E2C1C330E38461C3BA64.tmp' to '../../../../../../Users/u0963460/Documents/GitHub/IR_assetpipeline/WhiteBox/Content/WhiteBox_IR_BuiltData.uasset'
+[2019.01.14-16.26.48:437][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WhiteBox_IR" FILE="../../../../../../Users/u0963460/Documents/GitHub/IR_assetpipeline/WhiteBox/Content/WhiteBox_IR.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.14-16.26.48:547][154]LogSavePackage: Moving '../../../../../../Users/u0963460/Documents/GitHub/IR_assetpipeline/WhiteBox/Saved/WhiteBox_IR3D269BC54D2B3B9DFB7BD1B15E505822.tmp' to '../../../../../../Users/u0963460/Documents/GitHub/IR_assetpipeline/WhiteBox/Content/WhiteBox_IR.umap'
+[2019.01.14-16.26.48:566][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WhiteBox_IR_BuiltData" FILE="../../../../../../Users/u0963460/Documents/GitHub/IR_assetpipeline/WhiteBox/Content/WhiteBox_IR_BuiltData.uasset" SILENT=true
+[2019.01.14-16.26.48:586][154]LogSavePackage: Moving '../../../../../../Users/u0963460/Documents/GitHub/IR_assetpipeline/WhiteBox/Saved/WhiteBox_IR_BuiltData0DE1A0754ED2F63B057ED5ACC6C30E1F.tmp' to '../../../../../../Users/u0963460/Documents/GitHub/IR_assetpipeline/WhiteBox/Content/WhiteBox_IR_BuiltData.uasset'
